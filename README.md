@@ -21,7 +21,7 @@ inferior ao preço médio."</p>
 <p>Ventilador,100.00</p>
 
 <h3>Execução:</h3>
-<p>Enter full file path: "informacoes.txt"</p>
+<p>Enter full file path: "products.txt"</p>
 <p>Products: </p>
 <p>[TV 900.00]</p>
 <p>[Mouse 50.00]</p>
